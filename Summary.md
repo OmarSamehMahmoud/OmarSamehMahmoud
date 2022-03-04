@@ -8,7 +8,7 @@
   
   • LinkedIn: in/omarsamehmahmoud
   
-  • Email: omarsamehmahmoud@gmail.com
+  • Email: omarsamehmahmoudsyam@gmail.com
   
   • Mobile: (0100) 2695763
 
