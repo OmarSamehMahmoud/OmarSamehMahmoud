@@ -2,10 +2,12 @@
 <h3 align="center">Senior Software Developer @ ELARABY Group</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Dev+with+3%2B+Years+Experience;Linux+IoT+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Dev+with+3%2B+Years+Experience;Linux+%7C+IoT+%7C+AI" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **AOSP**
+### 🧠 About Me
+
+- 🔭 I’m currently working on **AOSP**  
 
 - 🌱 I’m currently learning **AI Agents ,MCP ,AOSP**
 
@@ -18,6 +20,8 @@
 - 📫 How to reach me **omarsamehmahmoud@gmail.com**
 
 - ⚡ Fun fact **The term “bug” in software actually dates back to 1947, when engineers found a literal moth stuck in a computer at Harvard, causing a malfunction. They taped it in the logbook and labeled it the “first actual case of a bug being found.”**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
