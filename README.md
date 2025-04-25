@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning **AI Agents ,MCP ,AOSP**
 
+- 👯 I’m looking to collaborate on **Embedded Systems Field**
+
+- 🤝 I’m looking for help with **AOSP ,IoT & AI Developers**
+
 - 💬 Ask me about **Embedded BareMetal ,Embedded Linux ,Linux ,IoT ,AI**
 
 - 📫 How to reach me **omarsamehmahmoud@gmail.com**
