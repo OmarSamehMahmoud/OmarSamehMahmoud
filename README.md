@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Dev+with+3%2B+Years+Experience;Linux+%7C+IoT+%7C+AI" alt="Typing SVG" />
 </p>
 
+---
+
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **AOSP**  
@@ -17,7 +19,7 @@
 
 - 💬 Ask me about **Embedded BareMetal ,Embedded Linux ,Linux ,IoT ,AI**
 
-- 📫 How to reach me **omarsamehmahmoud@gmail.com**
+- 📫 How to reach me **omarsamehmahmoud@gmail.com** , **01103073129**
 
 - ⚡ Fun fact **The term “bug” in software actually dates back to 1947, when engineers found a literal moth stuck in a computer at Harvard, causing a malfunction. They taped it in the logbook and labeled it the “first actual case of a bug being found.”**
 
