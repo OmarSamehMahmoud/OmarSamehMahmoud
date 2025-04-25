@@ -2,7 +2,7 @@
 <h3 align="center">Senior Software Developer @ ELARABY Group</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+with+3%2B+Years+Experience;Linux+%7C+IoT+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Dev+with+3%2B+Years+Experience;Linux+%7C+IoT+%7C+AI" alt="Typing SVG" />
 </p>
 
 ### 🧠 About Me
