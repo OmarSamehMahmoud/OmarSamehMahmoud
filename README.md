@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Sameh Mahmoud</h1>
 <h3 align="center">Senior Software Developer @ ELARABY Group</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Software+Dev+with+3%2B+Years+Experience;Linux+IoT+AI+%7C+TypeScript+%7C+Styled+Components" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **AOSP**
 
 - 🌱 I’m currently learning **AI Agents ,MCP ,AOSP**
