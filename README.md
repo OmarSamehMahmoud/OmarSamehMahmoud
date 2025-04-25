@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Embedded BareMetal ,Embedded Linux ,Linux ,IoT ,AI**
 
-- 📫 How to reach me **omarsamehmahmoud@gmail.com** , **01103073129**
+- 📫 How to reach me **Email: omarsamehmahmoud@gmail.com** , **Mob: +201103073129**
 
 - ⚡ Fun fact **The term “bug” in software actually dates back to 1947, when engineers found a literal moth stuck in a computer at Harvard, causing a malfunction. They taped it in the logbook and labeled it the “first actual case of a bug being found.”**
 
