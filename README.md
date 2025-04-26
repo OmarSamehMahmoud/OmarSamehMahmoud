@@ -34,7 +34,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+### 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
