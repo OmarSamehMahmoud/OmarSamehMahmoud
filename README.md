@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=👨‍💻+Senior+Software+Engineer+%7C+3%2B+Years+Experience;💡+Linux+%7C+IoT+%7C+AI+%7C+AOSP;🚀+Passionate+about+Building+Smart+Systems" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omarsamehmahmoud&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -122,10 +126,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=omarsamehmahmoud&theme=flat&column=4&margin-w=15&margin-h=15" />
 </p>
 
----
 
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarsamehmahmoud&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
-</p>
