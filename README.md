@@ -101,9 +101,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40"/>
   </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vagrant" alt="Vagrant" height="40"/>
-  </a>
 </p>
 
 ---
