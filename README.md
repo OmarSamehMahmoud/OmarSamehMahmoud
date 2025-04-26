@@ -49,6 +49,9 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="40"/>
+  </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40"/>
   </a>
@@ -87,9 +90,6 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40"/>
