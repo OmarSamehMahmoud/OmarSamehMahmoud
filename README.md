@@ -98,6 +98,9 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40"/>
   </a>
+  <a href="https://www.doxygen.nl/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Doxygen_logo.png" alt="Doxygen" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
+  </a>
 </p>
 
 ---
