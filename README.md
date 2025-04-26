@@ -106,11 +106,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omarsamehmahmoud&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" width="48%" height="220px" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsamehmahmoud&layout=compact&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" width="48%" height="220px" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omarsamehmahmoud&theme=tokyonight&border_radius=15&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsamehmahmoud&layout=compact&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" width="48%" height="220px" alt="Top Languages"/>
 </p>
 
 <p align="center">
