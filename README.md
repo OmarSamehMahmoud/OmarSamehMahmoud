@@ -68,6 +68,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
   </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" height="40"/>
+  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" height="40"/>
   </a>
