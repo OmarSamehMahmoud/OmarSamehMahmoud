@@ -118,7 +118,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarsamehmahmoud&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=omarsamehmahmoud&theme=flat&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -126,5 +126,5 @@
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omarsamehmahmoud&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=omarsamehmahmoud&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
 </p>
