@@ -101,16 +101,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsamehmahmoud&show_icons=true&theme=radical&border_radius=15&hide_border=true" width="48%" alt="Omarsamehmahmoud's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsamehmahmoud&layout=compact&show_icons=true&theme=radical&border_radius=15&hide_border=true" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omarsamehmahmoud&show_icons=true&theme=chartreuse-dark&border_radius=15&hide_border=true" width="48%" alt="Omarsamehmahmoud's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsamehmahmoud&layout=compact&show_icons=true&theme=chartreuse-dark&border_radius=15&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarsamehmahmoud&theme=radical&border_radius=15&hide_border=true" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarsamehmahmoud&theme=chartreuse-dark&border_radius=15&hide_border=true" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarsamehmahmoud&theme=radical" width="90%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarsamehmahmoud&theme=chartreuse-dark" width="90%" alt="Profile Details"/>
 </p>
 
 ---
