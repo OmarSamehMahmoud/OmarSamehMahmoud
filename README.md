@@ -99,7 +99,7 @@
     <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="40"/>
   </a>
   <a href="https://www.doxygen.nl/index.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doxygen/doxygen-original.svg" alt="Doxygen" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/doxygen/doxygen-original-wordmark.svg" alt="Doxygen" height="40"/>
   </a>
 </p>
 
