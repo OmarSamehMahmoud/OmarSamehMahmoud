@@ -2,7 +2,7 @@
 <h3 align="center">💻 Senior Software Developer @ <span style="color:#2980b9;">ELARABY Group</span></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=💡+Linux+%7C+IoT+%7C+AI+%7C+AOSP;🚀+Passionate+about+Building+Smart+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=💡+Linux+%7C+IoT+%7C+AI+%7C+AOSP+💡;🚀+Passionate+about+Building+Smart+Systems+🚀" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omarsamehmahmoud&label=Profile+Views&color=brightgreen&style=flat-square" alt="views" />
