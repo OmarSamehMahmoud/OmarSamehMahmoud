@@ -16,7 +16,7 @@
 - 🌱 Learning **AI Agents, AOSP, MCP**
 - 🤝 Looking to collaborate on **Embedded Systems, AI & IoT**
 - 💬 Ask me about **Embedded Linux, BareMetal, IoT, AI, AOSP**
-- 👨‍💻 All of my projects are available at [omarsameh-portfolio-yitvc.kinsta.page/](https://omarsameh-portfolio-yitvc.kinsta.page/)
+- 👨‍💻 All of my projects are available at [omarsameh-portfolio](https://omarsameh-portfolio-yitvc.kinsta.page/)
 - 📬 Reach me at **omarsamehmahmoud@gmail.com** | 📱 **+201103073129**
 - ⚡ Fun fact: *The term “bug” originated when a real moth caused a computer malfunction in 1947!*
 
