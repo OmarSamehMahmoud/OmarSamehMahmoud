@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#f1c40f;">Omar Sameh Mahmoud</span></h1>
-<h3 align="center">💻 Senior Software Developer @ <span style="color:#2980b9;">ELARABY Group</span></h3>
+<h3 align="center">💻 Senior Software Developer II @ <span style="color:#2980b9;">ELARABY Group</span></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=💡+Linux+%7C+IoT+%7C+AI+%7C+AOSP+💡;🚀+Passionate+about+Building+Smart+Systems+🚀" alt="Typing SVG" />
