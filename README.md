@@ -108,7 +108,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omarsamehmahmoud&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-zeta-five-37.vercel.app/api?username=omarsamehmahmoud&count_private=true&theme=dark" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarsamehmahmoud&layout=compact&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true" width="48%" alt="Top Languages"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omarsamehmahmoud&theme=tokyonight" width="90%" alt="Profile Details"/>
 </p>
