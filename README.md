@@ -120,7 +120,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarsamehmahmoud&rank=S" />
+  <img src="https://github-trophies.vercel.app/?username=omarsamehmahmoud" />
 </p>
 
 
